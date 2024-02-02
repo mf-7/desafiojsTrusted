@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#dataHora {
+  font-size: 18px;
+  font-weight: 600;
+  background-color: aquamarine;
+  padding: 20px;
+}
