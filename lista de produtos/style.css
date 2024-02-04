@@ -6,7 +6,9 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-
+tr th {
+  background-color: lightblue;
+}
 td,
 th {
   border: 1px solid #dddddd;
@@ -15,5 +17,5 @@ th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: lightgreen;
 }
